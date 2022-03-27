@@ -30,9 +30,11 @@ def load_csv(csvpath):
     return data
 
 
-def save_csv(qualifying_loans):
-    output_path = Path("qualifying_loans.csv")
+def save_csv(qualifying_loans, file_path):
+    header = ["Bank", "Max_Loan", "Max_LTV", "Max_DTI", "Min_Credit_Score", "Interest_Rate"]
+    output_path = Path(file_path)
     with open(output_path, "w", newline="") as csvfile:
         csvwriter = csv.writer(csvfile)
+        csvwriter.writerow(header)
         for loan in qualifying_loans:
-            csvwriter.writerow(loan.values())
+            csvwriter.writerow(loan)

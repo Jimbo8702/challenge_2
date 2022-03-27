@@ -116,8 +116,9 @@ def save_qualifying_loans(qualifying_loans):
     # YOUR CODE HERE!
     save = questionary.confirm("Would you like to save qualifying loans in a csv file?").ask()
     if save == True:
+        file_path = questionary.text("please input the file path for the location to store the file").ask()
         print("saving loans...")
-        save_csv(qualifying_loans)
+        save_csv(qualifying_loans, file_path)
 
 
 
