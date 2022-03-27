@@ -1,0 +1,1255 @@
+   50  npm start
+   51  npm start
+   52  npm start
+   53  npm start
+   54  npm start
+   55  npm start
+   56  npm start
+   57  npm start
+   58  npm start
+   59  npm start
+   60  npm start
+   61  npm start
+   62  npm start
+   63  npm start
+   64  npm start
+   65  npm start
+   66  npm start
+   67  npm start
+   68  npm start
+   69  npm start
+   70  npm start
+   71  npm start
+   72  npm start
+   73  npm start
+   74  npm start
+   75  npm start
+   76  npm start
+   77  npm start
+   78  npm start
+   79  npm start
+   80  npm start
+   81  npm start
+   82  npm start
+   83  npm start
+   84  npm start
+   85  npm start
+   86  npm start
+   87  npm start
+   88  npm start
+   89  npm start
+   90  npm start
+   91  npm start
+   92  npm i
+   93  npm i
+   94  npm start
+   95  npm start
+   96  npm start
+   97  npm start
+   98  npm i express-fileupload
+   99  npm start
+  100  npm start
+  101  npm start
+  102  npm start
+  103  npm start
+  104  npm start
+  105  npm start
+  106  npm start
+  107  npm start
+  108  npm install --save multer
+  109  npm install --save multer
+  110  npm start
+  111  npm install connect-busboy
+  112  npm install busboy
+  113  npm start
+  114  npm i multer
+  115  npm start
+  116  npm start
+  117  npm start
+  118  npm start
+  119  npm start
+  120  npm start
+  121  npm start
+  122  npm start
+  123  npm start
+  124  npm start
+  125  npm start
+  126  npm start
+  127  npm start
+  128  npm i node-blob
+  129  npm start
+  130  npm start
+  131  npm start
+  132  npm install axios
+  133  npm start
+  134  npm start
+  135  npm install web3
+  136  truffle compile
+  137  truffle compile
+  138  truffle compile
+  139  truffle compile
+  140  truffle compile
+  141  truffle compile
+  142  go main
+  143  go main
+  144  go main.go
+  145  go help
+  146  go run main
+  147  go run main.go
+  148  cd stardust
+  149  go run main.go
+  150  go run main.go
+  151  go run main
+  152  go mod tidy
+  153  go go run main.go
+  154  go run main
+  155  go run main.go
+  156  go run main.go
+  157  go mod tidy
+  158  go mod tidy
+  159  go run main.go
+  160  go mod tidy
+  161  go run main.go
+  162  go mod tidy
+  163  go run main.go
+  164  go run main
+  165  go run main.go
+  166  cd
+  167  go mod tidy
+  168  go mod tidy
+  169  go run main.go
+  170  go mod tidy
+  171  cd
+  172  go go run main.go
+  173  go run main
+  174  go run main.go
+  175  go tidy mod
+  176  go mod tidy
+  177  go run main
+  178  go run main.go
+  179  go run main.go
+  180  cd
+  181  go run main.go
+  182  cd
+  183  git clone git@github.com:wsb1994/stardust.git
+  184  go mod tidy
+  185  go run main.go
+  186  go run main.go
+  187  go run main.go
+  188  go run main.go
+  189  npm start
+  190  npm start
+  191  npm start
+  192  npm start
+  193  npm start
+  194  git add .
+  195  git commit -m "icons show on map for bars"
+  196  git push origin api
+  197  git clone https://github.com/ethereum-boilerplate/ethereum-boilerplate.git
+  198  npm start
+  199  npm install web3
+  200  npm start
+  201  npm start
+  202  npm i
+  203  truffle compile
+  204  truffle compile
+  205  truffle compile
+  206  truffle compile
+  207  truffle compile
+  208  truffle compile
+  209  truffle compile
+  210  truffle compile
+  211  truffle compile
+  212  truffle compile
+  213  truffle compile
+  214  npm start
+  215  npm i
+  216  npm start
+  217  yarn install
+  218  npm start
+  219  npm start
+  220  npm start
+  221  npm start
+  222  npm start
+  223  npm start
+  224  npm i react-moralis
+  225  npm start
+  226  npm i antd
+  227  npm i antd
+  228  npm start
+  229  npm start
+  230  npm start
+  231  npm start
+  232  npm start
+  233  npm start
+  234  npm start
+  235  $ brownie init
+  236  brownie init
+  237  ^[[200~OpenZepplin/openzepplin-contracts@4.5.0
+  238  brownie pm install OpenZeppelin/openzeppelin-contracts@4.5.0
+  239  brownie compile
+  240  brownie compile
+  241  brownie compile
+  242  brownie run scripts/deploy_factory.py
+  243  brownie run scripts/deploy_factory.py
+  244  brownie run scripts/deploy_factory.py
+  245  brownie run scripts/deploy_factory.py
+  246  brownie run scripts/deploy_factory.py
+  247  brownie run scripts/deploy_factory.py
+  248  brownie run scripts/deploy_factory.py
+  249  brownie run scripts/deploy_factory.py
+  250  brownie run scripts/deploy_factory.py
+  251  brownie run scripts/deploy_factory.py
+  252  npm start
+  253  npm start
+  254  npm start
+  255  npm i
+  256  npm start
+  257  npm start --reset-cache
+  258  npm start
+  259  npm start
+  260  npm start
+  261  npm start
+  262  npm start
+  263  npm start
+  264  npm start
+  265  npm start
+  266  npm start
+  267  npm start
+  268  git add .
+  269  git commit -m "poppup functioning"
+  270  git push origin popUp
+  271  npm i react-native-popup-menu
+  272  git checkout -b popUp
+  273  go run main.go
+  274  npm start
+  275  npm start
+  276  go run main.go
+  277  npm start
+  278  node server.js
+  279  node server.js
+  280  node server.js
+  281  node server.js
+  282  node server.js
+  283  node server.js
+  284  node server.js
+  285  node server.js
+  286  node server.js
+  287  node server.js
+  288  node server.js
+  289  node server.js
+  290  node server.js
+  291  node server.js
+  292  node makeDir.js
+  293  node makeDir.js
+  294  npm i ipfs-http-client
+  295  node makeDir.js
+  296  node makeDir.js
+  297  node makeDir.js
+  298  npm i moralis
+  299  npm i moralis
+  300  node makeDir.js
+  301  node makeDir.js
+  302  node makeDir.js
+  303  npm start
+  304  node index.js
+  305  brownie compile
+  306  brownie pm install multi-token-standard
+  307  brownie pm install Oxsequence/erc-1155@3.1.0
+  308  brownie complie
+  309  brownie compile
+  310  brownie compile
+  311  brownie compile
+  312  brownie compile
+  313  brownie compile
+  314  npm start
+  315  npm start
+  316  npm i ipfs-http-client
+  317  npm i ipfs-car
+  318  npm start
+  319  npm start
+  320  npm i multiformats
+  321  npm start
+  322  npm start
+  323  npm start
+  324  npm start
+  325  npm start
+  326  npm start
+  327  npm start
+  328  npm start
+  329  npm start
+  330  npm install react-moralis
+  331  npm install react-moralis
+  332  npm start
+  333  react-moralis
+  334  npm i react-moralis
+  335  npm start
+  336  npm start
+  337  npm start
+  338  npm start
+  339  brownie compile
+  340  npm i
+  341  npm start
+  342  npm i ethers
+  343  npm start
+  344  npm start
+  345  npm start
+  346  npm start
+  347  npm i
+  348  npm start
+  349  npm start
+  350  npm install --save ethers
+  351  npm strat
+  352  npm start
+  353  npm i npm i dotenv
+  354  npm start
+  355  npm i
+  356  npm start
+  357  npm start
+  358  brownie compile
+  359  npm start
+  360  brownie compile
+  361  npm start
+  362  npm start
+  363  npm start
+  364  npm i axios 
+  365  npm start
+  366  git add .
+  367  git commit -m "popup menu changed to standard modal"
+  368  git push origin menuModal
+  369  go run main.go
+  370  npm i react-native-root-toast
+  371  npm start
+  372  npm start
+  373  git checkout -b dashboard
+  374  npm start
+  375  git add . 
+  376  git commit -m "concept for dashboard"
+  377  git push origin dashboard
+  378  git checkout api
+  379  git checkout dashboard
+  380  npm start
+  381  npm start
+  382  npm start
+  383  git add .
+  384  git commit -m "dashboard offical"
+  385  git checkout -b menuModal
+  386  npm start 
+  387  npm start 
+  388  npm start
+  389  npm start 
+  390  npm start 
+  391  npm start 
+  392  npm start 
+  393  npm start 
+  394  npm start 
+  395  npm start
+  396  npm start
+  397  npm start
+  398  npm start
+  399  git add .
+  400  git commit -m "most recent"
+  401  git push origin menuModal
+  402  git checkout -b searchConcept 
+  403  npm start
+  404  git checkout searchBar
+  405  git add .
+  406  git commit -m "not finished"
+  407  git push searchConcept
+  408  git checkout searchBar
+  409  npm start
+  410  npm i 
+  411  npm start
+  412  git checkout menuModal
+  413  npm start
+  414  git checkout searchBarConcept
+  415  npm start
+  416  npm start
+  417  npm star
+  418  npm start
+  419  go main.go
+  420  go run main.gp
+  421  go run main.g0
+  422  go run main.go
+  423  go run main.go
+  424  npm i react-native-root-siblings
+  425  npm start
+  426  npm start
+  427  npm start
+  428  npm start
+  429  npm start
+  430  git checkout -b discoverConcept
+  431  npm start
+  432  npm start
+  433  npm start
+  434  npm start
+  435  git add .
+  436  git commit -m "stuff"
+  437  git add .
+  438  npm start
+  439  npm start
+  440  npm start
+  441  npm start
+  442  npm start
+  443  npm start --clear-cache
+  444  npm start
+  445  npm start
+  446  npm start
+  447  git add .
+  448   git commit -m "menu v1" 
+  449  git push origin menuModal 
+  450  npm start
+  451  git add .
+  452  npm start
+  453  npm start
+  454  npm start
+  455  go run main.go
+  456  go run main.go
+  457  conda --version
+  458  conda activate dev
+  459  conda info --envs
+  460  conda activate dev
+  461  conda activate dev fintechp1
+  462  conda activate fintechp1
+  463  cd
+  464  conda create -n dev python=3.7 anaconda
+  465  conda activate dev
+  466  jupyter lab
+  467  conda deactivate
+  468  go  main.go
+  469  go run main.go
+  470  npm start
+  471  brownie compile
+  472  npm i
+  473  npm start
+  474  npm start
+  475  npm start
+  476  npm start
+  477  npm start
+  478  npm i
+  479  npm start
+  480  npm start
+  481  npm start
+  482  npm start
+  483  brownie compile
+  484  npm start
+  485  npm start
+  486  go run main.go
+  487  npm start
+  488  npm start
+  489  npm start
+  490  go run main.go
+  491  npm start
+  492  yarn 
+  493  yarn start
+  494  yarn start
+  495  yarn start
+  496  create-react-app nftMarket
+  497  create-react-app nftmarket
+  498  git clone https://github.com/ethereum-boilerplate/ethereum-boilerplate.git
+  499  npm i
+  500  npm install react-router-dom@6
+  501  npm start
+  502  npm start
+  503  git clone https://github.com/dappuniversity/price-bot.git
+  504  npm i
+  505  npm start
+  506  npm start
+  507  npm start
+  508  npm star
+  509  npm start
+  510  pip install -U catalyst
+  511  /Library/Frameworks/Python.framework/Versions/3.10/bin/python3.10 -m pip install --upgrade pip
+  512  pip uninstall catalyst
+  513  pip uninstall -U catalyst
+  514  pip uninstall catalyst
+  515  pip uninstall catalyst
+  516  pip uninstall -U catalyst
+  517  pip list
+  518  npm init
+  519  npm i ethers
+  520  npm start
+  521  npm start
+  522  npm start
+  523  npm start
+  524  expo update
+  525  git add .
+  526  git commit -m "native mismatch fix"
+  527  git push origin discoverConcept
+  528  expo update
+  529  npm i
+  530  npm install react
+  531  npm install react
+  532  npm i
+  533  npm i @react-native-community/masked-view
+  534  npm i
+  535  install --save --legacy-peer-deps
+  536  npm install --save --legacy-peer-deps
+  537  npm start
+  538  npm start
+  539  go run main.go
+  540  conda activate dev
+  541  jupyter lab
+  542  pip install pywin32
+  543  cd
+  544  python --version
+  545  pip install keyboard
+  546  pip install pywin32
+  547  pip install pywin32
+  548  pip uninstall keyboard
+  549  conda activate dev
+  550  jupyter lab
+  551  pip install pywin32
+  552  cd
+  553  python --version
+  554  pip install keyboard
+  555  pip install pywin32
+  556  pip install pywin32
+  557  pip uninstall keyboard
+  558  virtualenv -p python3 env
+  559  cd Testbots
+  560  pip list
+  561  cd
+  562  python3 -m venv /Testbots
+  563  python3 -m venv /code/bots
+  564  python3 -m venv /bots
+  565  mkdir /bots
+  566  cd Desktop
+  567  mkdir /bots
+  568  mkdir bots
+  569  python3 -m venv bots
+  570  pip install selenium 
+  571  conda activate dev
+  572  jupiter lab
+  573  jupyter lab
+  574  pip install selenium
+  575  pip uninstall selenium
+  576  conda activate dev
+  577  jupiter lab
+  578  jupyter lab
+  579  pip install selenium
+  580  pip uninstall selenium
+  581  cd
+  582  mv /Downloads/chromedriver /usr/local/bin
+  583  cd PyCode
+  584  python3 -m venv bot
+  585  which puthon
+  586  which python
+  587  conda deactivate dev
+  588  conda deactivate 
+  589  which python
+  590  source bot/bin/activate
+  591  which python
+  592  pip list
+  593  pip install selenium 
+  594  which python
+  595  python3 main.py
+  596  mv ~/Downloads/chromedriver /user/local/bin
+  597  mv ~/Downloads/chromedriver /usr/local/bin
+  598  python3 main.py
+  599  python3 main.py
+  600  mv ~/Downloads/chromedriver /usr/local/bin
+  601  python3 main.py
+  602  xattr -d com.apple.quarantine /usr/local/bin/chromedriver\n
+  603  python3 main.py
+  604  python3 main.py
+  605  python3 rm /usr/local/bin/chromedriver
+  606  rm /usr/local/bin/chromedriver
+  607  mv ~/Downloads/chromedriver /usr/local/bin
+  608  python3 main.py
+  609  xattr -d com.apple.quarantine /usr/local/bin/chromedriver\n
+  610  python3 main.py
+  611  python3 main.py
+  612  python3 main.py
+  613  source /Users/jamessgarella/PyCode/bot/bin/activate
+  614  python3 main.py
+  615  python3 main.py
+  616  python3 main.py
+  617  python3 main.py
+  618  python3 main.py
+  619  python3 main.py
+  620  python3 main.py
+  621  python3 main.py
+  622  python3 main.py
+  623  python3 main.py
+  624  python3 main.py
+  625  python3 main.py
+  626  python3 main.py
+  627  python3 main.py
+  628  python3 main.py
+  629  python3 main.py
+  630  python3 main.py
+  631  python3 main.py
+  632  python3 main.py
+  633  python3 main.py
+  634  python3 main.py
+  635  python3 main.py
+  636  python3 main.py
+  637  python3 main.py
+  638  python3 main.py
+  639  python3 main.py
+  640  python3 main.py
+  641  python3 main.py
+  642  python3 main.py
+  643  python3 main.py
+  644  python3 main.py
+  645  python3 main.py
+  646  python3 main.py
+  647  python3 main.py
+  648  python3 main.py
+  649  python3 main.py
+  650  python3 main.py
+  651  which python
+  652  source twitterBot/bin/activate
+  653  which python
+  654  pip install tweepy
+  655  deactivate
+  656  which python
+  657  source twitterBot/bin/activate
+  658  pip install tweepy
+  659  python3 main.py
+  660  source bot/bin/activate
+  661  pyhton3 main.py
+  662  python3 main.py
+  663  which python
+  664  deactivate
+  665  source twitterBot/bin/activate
+  666  pip list
+  667  which python
+  668  which python
+  669  source bot/bin/activate
+  670  pip install tweepy
+  671  cd PyCode
+  672  python3 -m venv twitterBot
+  673  deactivate
+  674  which python
+  675  conda deactivate
+  676  which python
+  677  source twitterBot/bin/activate
+  678  which python
+  679  deactivate
+  680  which python
+  681  juypter lab
+  682  jupyter lab
+  683  which python
+  684  conda deactivate
+  685  which python
+  686  which python
+  687  conda deactivate 
+  688  sudo conda deactivate 
+  689  which python
+  690  conda deactivate 
+  691  which python
+  692  source /usr/bin/python/bin/activate
+  693  source python/bin/activate
+  694  python3 venv projects/IpChanger
+  695  python3 venv IpChanger
+  696  python3 -m venv projects/IpChanger
+  697  which python
+  698  source IpChanger/bin/activate
+  699  source projects/IpChanger/bin/activate
+  700  python3 -m venv changerEnv
+  701  source changerEnv/bin/activate
+  702  pip install bs4
+  703  pip install requests
+  704  pip install pandas
+  705  source /Users/jamessgarella/Desktop/IpChanger/changerEnv/bin/activate
+  706  /Users/jamessgarella/Desktop/IpChanger/changerEnv/bin/python -m pip install -U black
+  707  python3 main.py
+  708  python3 main.py
+  709  python3 main.py
+  710  python3 main.py
+  711  python3 main.py
+  712  python3 main.py
+  713  python3 main.py
+  714  python3 main.py
+  715  python3 main.py
+  716  python3 main.py
+  717  python3 main.py
+  718  pip install openpyxl
+  719  python3 main.py
+  720  which python
+  721  conda config --set auto_activate_base false
+  722  which python
+  723  which python
+  724  conda activate dev
+  725  python3 hello_python.py
+  726  cd Python_Project
+  727  python3 hello_python.py
+  728  python3 hello_python.py
+  729  python3 split_second_homebuying.py
+  730  python3 split_second_homebuying.py
+  731  python3 the_401k_shuffle.py
+  732  python3 listing_assets.py
+  733  python3 split_second_part_2.py
+  734  python3 split_second_part_2.py
+  735  python3 listing_assets.py
+  736  python3 returned_goods.py
+  737  python3 returned_goods.py
+  738  pwd
+  739  ls
+  740  cd Desktop
+  741  mkdir Fintech_Workspace
+  742  conda deactivate
+  743  which python
+  744  python3 racking_up_the_profit.py
+  745  python3 racking_up_the_profit.py
+  746  python3 racking_up_the_profit.py
+  747  python3 pathways_to_success.py
+  748  npm start
+  749  go run main.go
+  750  python3 automated_equity_rounds.py
+  751  python3 automated_equity_rounds.py
+  752  python3 automated_equity_rounds.py
+  753  npm start
+  754  npm start --clear-cache
+  755  npm start
+  756  go run main.go
+  757  git clone git@github.com:Jimbo8702/Challenge-1.git
+  758  git add .
+  759  git commit -m "inital commit"
+  760  git push origin main
+  761  which python
+  762  conda activate dev
+  763  /usr/local/bin/python3
+  764  python3 loan_analyzer.py
+  765  git add .
+  766  git commit -m "loan_analyzer completed"
+  767  git push origin main
+  768  conda activate dev
+  769  pip -V
+  770  pip freeze
+  771  pip install fire
+  772  pip install questionary
+  773  which python
+  774  which python
+  775  conda activate dev
+  776  which python
+  777  juypter lab
+  778  jupyter lab
+  779  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  780  python -m venv webserver
+  781  python3 -m venv webserver
+  782  which python
+  783  source webserver/bin/activate
+  784  python3 server.py
+  785  pip install flask
+  786  which python
+  787  pip freeze
+  788  source webserver/bin/activate
+  789  pip uninstall Flask
+  790  $ pip install Flask
+  791  pip install Flask
+  792  git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  793  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  794  source /Users/jamessgarella/Desktop/pyfun/pythonserver/webserver/bin/activate
+  795  /Users/jamessgarella/Desktop/pyfun/pythonserver/webserver/bin/python -m pip install -U black
+  796  python3 server.py 
+  797  python3 manipulating_lists.py
+  798  python3 manipulating_lists.py
+  799  python3 manipulating_lists.py
+  800  python3 manipulating_lists.py
+  801  python3 manipulating_lists.py
+  802  python3 manipulating_lists.py
+  803  python3 manipulating_lists.py
+  804  python3 manipulating_lists.py
+  805  python3 dictionaries.py
+  806  python3 dictionaries.py
+  807  which python
+  808  git clone https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  809  source /Users/jamessgarella/Desktop/sniperv1/sniper/bin/activate
+  810  /Users/jamessgarella/Desktop/sniperv1/sniper/bin/python -m pip install -U black
+  811  which python
+  812  jupyter lab
+  813  juypter lab
+  814  juypter lab
+  815  conda create --snipev1 myenv
+  816  conda create snipev1 myenv
+  817  conda create snipev1 
+  818  cd Desktop
+  819  cd UniSniper
+  820  ls
+  821  cd sniperv1
+  822  conda create bot
+  823  conda create --bot
+  824  conda --version
+  825  conda update conda
+  826  conda create bot 
+  827  conda create --name bot
+  828  conda activate bot
+  829  pip install web3
+  830  juypter lab
+  831  jupyter lab
+  832  juypter lab
+  833  jupyter lab
+  834  jupyter lab
+  835  source sniperv1/bin/activate
+  836  pip install web3
+  837  sudo pip install web3 --upgrade
+  838  which python
+  839  pip install web3
+  840  conda activate dev
+  841  juypter lab
+  842  jupyter lab
+  843  conda deactivate
+  844  npm i express
+  845  /usr/local/bin/python3 /Users/jamessgarella/Desktop/Fintech_Workspace/Class/CU-VIRT-FIN-PT-03-2022-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  846  /usr/local/bin/python3 /Users/jamessgarella/Desktop/Fintech_Workspace/Class/CU-VIRT-FIN-PT-03-2022-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  847  /usr/local/bin/python3 /Users/jamessgarella/Desktop/Fintech_Workspace/Class/CU-VIRT-FIN-PT-03-2022-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  848  /usr/local/bin/python3 /Users/jamessgarella/Desktop/Fintech_Workspace/Class/CU-VIRT-FIN-PT-03-2022-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  849  /usr/local/bin/python3 /Users/jamessgarella/Desktop/Fintech_Workspace/Class/CU-VIRT-FIN-PT-03-2022-U-B/01-Financial-Programming-Python/2/Activities/09_Stu_Loops/Unsolved/loops.py
+  850  source /Users/jamessgarella/Desktop/sniperv1/sniper/bin/activate
+  851  python3 test.py
+  852  python3 test.py
+  853  python3 UniSniper.py
+  854  python3 UniSniper.py
+  855  python3 UniSniper.py
+  856  python3 UniSniper.py
+  857  python3 UniSniper.py
+  858  python3 UniSniper.py
+  859  python3 UniSniper.py
+  860  python3 UniSniper.py
+  861  python3 UniSniper.py
+  862  python3 UniSniper.py
+  863  python3 UniSniper.py
+  864  python3 UniSniper.py
+  865  source /Users/jamessgarella/Desktop/sniperv1/sniper/bin/activate
+  866  python3 UniSniper.py
+  867  python3 UniSniper.py
+  868  python3 UniSniper.py
+  869  python3 UniSniper.py
+  870  source /Users/jamessgarella/Desktop/sniperv1/sniper/bin/activate
+  871  node server.js
+  872  source /Users/jamessgarella/Desktop/sniperv1/sniper/bin/activate
+  873  node server.js
+  874  source /Users/jamessgarella/Desktop/sniperv1/sniper/bin/activate
+  875  python3 server.py
+  876  python3 server.py
+  877  source /Users/jamessgarella/Desktop/sniperv1/sniper/bin/activate
+  878  python3 server.py
+  879  python3 -m venv sniper
+  880  which python
+  881  source sniper/bin/activate
+  882  which python
+  883  pip install web3
+  884  python3 UniSniper.py
+  885  python3 UniSniper.py
+  886  python3 UniSniper.py
+  887  python3 UniSniper.py
+  888  python3 UniSniper.py
+  889  python3 UniSniper.py
+  890  which python
+  891  python3 UniSniper.py main
+  892  python3 UniSniper.py main
+  893  python3 UniSniper.py main
+  894  python3 UniSniper.py main
+  895  python3 UniSniper.py main
+  896  python3 UniSniper.py main
+  897  python3 UniSniper.py main
+  898  python3 UniSniper.py main
+  899  python3 UniSniper.py main
+  900  python3 UniSniper.py main
+  901  python3 server.py
+  902  python3 server.py
+  903  python3 test.py
+  904  python3 test.py
+  905  python3 server.py
+  906  python3 server.py
+  907  python3 test.py
+  908  python3 server.py
+  909  python3 server.py
+  910  python3 server.py
+  911  source /Users/jamessgarella/Desktop/sniperv1/sniper/bin/activate
+  912  python3 server.py
+  913  python3 server.py
+  914  python3 server.py
+  915  python3 server.py
+  916  python3 server.py
+  917  python3 server.py
+  918  python3 server.py
+  919  python3 server.py
+  920  source /Users/jamessgarella/Desktop/sniperv1/sniper/bin/activate
+  921  /Users/jamessgarella/Desktop/sniperv1/sniper/bin/python /Users/jamessgarella/Desktop/sniperv1/UniSniper.py
+  922  python3 server.py
+  923  source /Users/jamessgarella/Desktop/sniperv1/sniper/bin/activate
+  924  python3 server.py
+  925  python3 server.py
+  926  python3 server.py
+  927  python3 server.py
+  928  python3 server.py
+  929  python3 server.py
+  930  python3 server.py
+  931  python3 server.py
+  932  python3 server.py
+  933  python3 server.py
+  934  python3 server.py
+  935  source /Users/jamessgarella/Desktop/sniperv1/sniper/bin/activate
+  936  python3 test.py
+  937  python3 test.py
+  938  python3 test.py
+  939  python3 test.py
+  940  python3 test.py
+  941  python3 test.py
+  942  python3 test.py
+  943  python3 test.py
+  944  source /Users/jamessgarella/Desktop/sniperv1/sniper/bin/activate
+  945  python3 server.py
+  946  source /Users/jamessgarella/Desktop/sniperv1/sniper/bin/activate
+  947  python3 test.py
+  948  python3 test.py
+  949  python3 test.py
+  950  python3 test.py
+  951  python3 test.py
+  952  python3 test.py
+  953  python3 server.py
+  954  python3 server.py
+  955  python3 server.py
+  956  python3 server.py
+  957  source /Users/jamessgarella/Desktop/sniperv1/sniper/bin/activate
+  958  python3 UniSniper.py
+  959  python3 UniSniper.py
+  960  python3 app.py
+  961  python3 app.py
+  962  npm i socket.io-client
+  963  npm i
+  964  node server.js
+  965  node server.js
+  966  node server.js
+  967  node server.js
+  968  node server.js
+  969  node server.js
+  970  node server.js
+  971  node server.js
+  972  npm i
+  973  conda activate dec
+  974  conda activate dev
+  975  which python
+  976  conda activate dev
+  977  which python
+  978  pip install fire
+  979  which python
+  980  conda activate dev
+  981  pip install fire
+  982  which python
+  983  which pyhton
+  984  which pythob
+  985  which python
+  986  python freeze
+  987  conda activate dev
+  988  python3 cli.py
+  989  pip freeze
+  990  conda activate dec
+  991  conda activate dev
+  992  pip install fire
+  993  cd desktop
+  994  cd Fintech_workspace
+  995  which python
+  996  conda activate dev
+  997  code .
+  998  code.
+  999  code
+ 1000  .
+ 1001  npm i npm install --save firebase
+ 1002  npm start
+ 1003  which python
+ 1004  source bot/bin/activate 
+ 1005  python3 insta.py
+ 1006  python3 insta.py
+ 1007  python3 insta.py
+ 1008  npm start
+ 1009  npm start
+ 1010  npm start
+ 1011  npm start
+ 1012  npm start
+ 1013  npx create-react-app my-app
+ 1014  npm install moralis
+ 1015  npm start
+ 1016  npm start
+ 1017  npm start
+ 1018  npm start
+ 1019  npm start
+ 1020  npm install firebase
+ 1021  npm start
+ 1022  npm start
+ 1023  npm start
+ 1024  npm start
+ 1025  npm start
+ 1026  npm start
+ 1027  npm start
+ 1028  npm start
+ 1029  npm start
+ 1030  npm start
+ 1031  npm start
+ 1032  npm start
+ 1033  npm start
+ 1034  npm start
+ 1035  npm start
+ 1036  npm start
+ 1037  npm start
+ 1038  npm start
+ 1039  npm install mongoose
+ 1040  npm start
+ 1041  npm start
+ 1042  npm start
+ 1043  npm start
+ 1044  npm start
+ 1045  npm start
+ 1046  npm start
+ 1047  npm start
+ 1048  npm start
+ 1049  npm start
+ 1050  npm start
+ 1051  npm start
+ 1052  npm start
+ 1053  npm start
+ 1054  npm start
+ 1055  npm start
+ 1056  npm i socket.io-client
+ 1057  npm start
+ 1058  npm start
+ 1059  npm start
+ 1060  npm start
+ 1061  npm start
+ 1062  npm start
+ 1063  npm start
+ 1064  npm start
+ 1065  npm start
+ 1066  python3 UniSniper.py
+ 1067  python3 UniSniper.py
+ 1068  python3 UniSniper.py
+ 1069  python -m venv class
+ 1070  python3 -m venv class 
+ 1071  source class/bin/activate 
+ 1072  pip install fire
+ 1073  pip install black
+ 1074  python cli.py --pants=True
+ 1075  source /Users/jamessgarella/Desktop/Fintech_Workspace/Class/bin/activate
+ 1076  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+ 1077  source /Users/jamessgarella/Desktop/Fintech_Workspace/Class/bin/activate
+ 1078  python app.py --credit_score=750 --debt=5000 --income=20000\n
+ 1079  python app.py
+ 1080  source /Users/jamessgarella/Desktop/Fintech_Workspace/Class/bin/activate
+ 1081  git clone https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+ 1082  source /Users/jamessgarella/Desktop/Fintech_Workspace/Class/bin/activate
+ 1083  python app.py --credit_score=750
+ 1084  pip install questionary
+ 1085  npx create-react-app my-app
+ 1086  npm i express
+ 1087  npm i socket.io
+ 1088  npm init -y\n
+ 1089  npm i socket.io
+ 1090  npm i express
+ 1091  npm start
+ 1092  npm i mongoose
+ 1093  node server.js
+ 1094  node server.js
+ 1095  node server.js
+ 1096  node server.js
+ 1097  node server.js
+ 1098  node server.js
+ 1099  node server.js
+ 1100  node server.js
+ 1101  node server.js
+ 1102  node server.js
+ 1103  node server.js
+ 1104  node server.js
+ 1105  node server.js
+ 1106  node server.js
+ 1107  node server.js
+ 1108  node server.js
+ 1109  node server.js
+ 1110  node server.js
+ 1111  node server.js
+ 1112  node server.js
+ 1113  node server.js
+ 1114  node server.js
+ 1115  npm start
+ 1116  npm start
+ 1117  npm start
+ 1118  npm start
+ 1119  npm start
+ 1120  npm start
+ 1121  npm start
+ 1122  npm start
+ 1123  npm start
+ 1124  npm start
+ 1125  npm start
+ 1126  npm start
+ 1127  npm start
+ 1128  npm start
+ 1129  npm start
+ 1130  npm start
+ 1131  node server.js
+ 1132  node server.js
+ 1133  node server.js
+ 1134  node server.js
+ 1135  npm install cors
+ 1136  npm install cors
+ 1137  node server.js
+ 1138  node server.js
+ 1139  node server.js
+ 1140  npm i socket.io-client
+ 1141  node server.js
+ 1142  npm start
+ 1143  npm start
+ 1144  go run main.go
+ 1145  node server.js
+ 1146  node server.js
+ 1147  source sniper/bin/activate
+ 1148  pip install "python-socketio[asyncio_client]"
+ 1149  which python
+ 1150  python3 test.py
+ 1151  python3 test.py
+ 1152  python3 test.py
+ 1153  python3 test.py
+ 1154  python3 test.py
+ 1155  python3 test.py
+ 1156  python3 test.py
+ 1157  python3 test.py
+ 1158  python3 test.py
+ 1159  python3 test.py
+ 1160  python3 test.py
+ 1161  python3 test.py
+ 1162  python3 test.py
+ 1163  python3 test.py
+ 1164  python3 test.py
+ 1165  python3 test.py
+ 1166  python3 test.py
+ 1167  python3 test.py
+ 1168  python3 test.py
+ 1169  python3 test.py
+ 1170  python3 test.py
+ 1171  python3 test.py
+ 1172  python3 test.py
+ 1173  python3 test.py
+ 1174  python3 test.py
+ 1175  python3 test.py
+ 1176  python3 test.py
+ 1177  python3 test.py
+ 1178  python3 test.py
+ 1179  python3 test.py
+ 1180  python3 test.py
+ 1181  python3 test.py
+ 1182  python3 test.py
+ 1183  python3 test.py
+ 1184  python3 test.py
+ 1185  python3 test.py
+ 1186  python3 test.py
+ 1187  python3 test.py
+ 1188  python3 test.py
+ 1189  python3 test.py
+ 1190  python3 test.py
+ 1191  python3 test.py
+ 1192  python3 test.py
+ 1193  python3 test.py
+ 1194  python3 test.py
+ 1195  python3 test.py
+ 1196  python3 test.py
+ 1197  python3 test.py
+ 1198  python3 test.py
+ 1199  python3 test.py
+ 1200  python3 test.py
+ 1201  python3 test.py
+ 1202  python3 test.py
+ 1203  python3 test.py
+ 1204  python3 test.py
+ 1205  python3 test.py
+ 1206  python3 test.py
+ 1207  python3 test.py
+ 1208  python3 test.py
+ 1209  python3 test.py
+ 1210  python3 test.py
+ 1211  python3 test.py
+ 1212  python3 test.py
+ 1213  python3 test.py
+ 1214  python3 test.py
+ 1215  python3 test.py
+ 1216  python3 test.py
+ 1217  python3 test.py
+ 1218  python3 test.py
+ 1219  python3 test.py
+ 1220  python3 test.py
+ 1221  python3 test.py
+ 1222  python3 test.py
+ 1223  python3 test.py
+ 1224  python3 test.py
+ 1225  python3 test.py
+ 1226  python3 test.py
+ 1227  python3 test.py
+ 1228  python3 test.py
+ 1229  python3 test.py
+ 1230  python3 test.py
+ 1231  python3 test.py
+ 1232  python3 test.py
+ 1233  python3 test.py
+ 1234  python3 test.py
+ 1235  python3 test.py
+ 1236  python3 test.py
+ 1237  python3 test.py
+ 1238  python3 test.py
+ 1239  python3 test.py
+ 1240  python3 test.py
+ 1241  python3 test.py
+ 1242  python3 test.py
+ 1243  python3 test.py
+ 1244  python3 test.py
+ 1245  python3 test.py
+ 1246  python3 test.py
+ 1247  python3 test.py
+ 1248  python3 test.py
+ 1249  python3 test.py
+ 1250  python3 test.py
+ 1251  python3 test.py
+ 1252  python3 test.py
+ 1253  python3 test.py
+ 1254  python3 test.py
+ 1255  python3 test.py
+ 1256  python3 test.py
+ 1257  python3 test.py
+ 1258  pip install uniswap-python
+ 1259  pip install uniswap-python
+ 1260  python3 test.py
+ 1261  python3 test.py
+ 1262  python3 test.py
+ 1263  npm start
+ 1264  go run main.go
+ 1265  python3 test.py
+ 1266  source sniper/bin/activate
+ 1267  source sniper/bin/activate
+ 1268  python3 test.py
+ 1269  python3 again.py
+ 1270  python3 again.py
+ 1271  python3 again.py
+ 1272  python3 test.py
+ 1273  python3 test.py
+ 1274  python3 test.py
+ 1275  python3 test.py
+ 1276  python3 test.py
+ 1277  python3 abritage.py
+ 1278  python3 abritage.py
+ 1279  python3 test.py
+ 1280  git add .
+ 1281  git commit -m "init commit"
+ 1282  python app.py
+ 1283  conda activate dev
+ 1284  conda activate dev
+ 1285  python app.py
+ 1286  npm i --save-dev @uniswap/v3-sdk\nnpm i --save-dev @uniswap/sdk-core
+ 1287  npm i ethers
+ 1288  node bot.js
+ 1289  node bot.js
+ 1290  node bot.ts
+ 1291  git clone git@github.com:Jimbo8702/challenge_2.git
+ 1292  git clone https://github.com/dappuniversity/price-bot.git
+ 1293  python app.py
+ 1294  python app.py
+ 1295  python3 app.py
+ 1296  conda activate dev
+ 1297  python3 app.py
+ 1298  git add .
+ 1299  git commit -m "save_loans function integreted"
+ 1300  python3 app.py
+ 1301  python3 app.py
+ 1302  python3 app.py
+ 1303  git add .
+ 1304  git commit -m"file_path option added"
